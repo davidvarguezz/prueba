@@ -1,0 +1,56 @@
+body{
+  margin: 10%;
+  background-color: whitesmoke;
+background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/245000/245879-Merida-Cathedral.jpg);
+background-repeat: no-repeat;
+background-position: right top;
+margin-right: 200px;
+background-attachment: fixed;
+font-size: xx-large;
+
+ }
+
+img{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  margin-left: 40%;
+}
+p {
+  margin: 0 auto;
+  }
+h1{
+  font-weight: bolder;
+  background-color: rgb(254, 208, 147);
+  opacity: .8;
+  
+}
+p {
+  font-style: oblique;
+  
+}
+span{ 
+  font-style: oblique; 
+}
+h5{ 
+  margin: 0 auto;
+  
+}
+h1{
+  text-align: center;
+
+}
+h2{
+  text-align: center;
+  
+}
+section{ 
+  background-color: antiquewhite;
+  opacity: .8;
+ text-align: center;
+}
+ol{
+  list-style-type: none;
+  margin: 0%;
+  padding:0%;
+}

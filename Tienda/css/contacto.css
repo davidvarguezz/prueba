@@ -1,0 +1,12 @@
+body{
+    margin: 40px;
+    padding: 0;
+
+}
+
+
+.newspaper{
+    column-count: 3;
+  column-gap: 20px;
+  column-rule-style: none;
+}
